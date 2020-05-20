@@ -1,5 +1,5 @@
-local owner_name = "gollark" -- Default username, can be reset by owner
-local drone_name = "QT-8"
+local owner_name = "gollark2" -- Default username, can be reset by owner
+local drone_name = "droney"
 local status = drone.setStatusText
 
 if key_exists "name" then
